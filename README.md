@@ -1,8 +1,12 @@
 # BTRE Housing Project
+
 Hi, I am building the BTRE housing project using Django framework to ease the finding of realtors in and around your area!
+
 Tech Stack:-
 Frontend - HTML/CSS, JavaScript
+
 Backend - Django Framework
+
 Database - PostgreSQL
 
 ## BT Real Estate App Requirements
